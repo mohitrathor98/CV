@@ -1,3 +1,3 @@
 # CV
 
-It's a personal CV for Mohit
+It's a personal CV
