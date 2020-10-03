@@ -1,3 +1,3 @@
 # CV
 
-It's a personal CV
+Nothing just trying to learn stuffs.
